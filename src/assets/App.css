@@ -1,0 +1,24 @@
+.parent-container {
+    width: 93%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.trident h2, 
+.trident h3,
+.trident p {
+    text-align: center;
+}
+
+.trident img {
+    display: block;
+    margin: 0 auto;
+}
